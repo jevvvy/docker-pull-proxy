@@ -9,3 +9,5 @@ langgenius/dify-sandbox:0.2.1 registry.cn-hangzhou.aliyuncs.com/namespace_dock/d
 ubuntu/squid:latest registry.cn-hangzhou.aliyuncs.com/namespace_dock/squid:latest
 
 nginx:latest registry.cn-hangzhou.aliyuncs.com/namespace_dock/nginx:latest
+
+mysql:5.7 registry.cn-hangzhou.aliyuncs.com/namespace_dock/mysql:5.7
