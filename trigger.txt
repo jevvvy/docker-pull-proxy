@@ -4,10 +4,14 @@ redis:6-alpine registry.cn-hangzhou.aliyuncs.com/namespace_dock/redis:6-alpine
 
 semitechnologies/weaviate:1.19.0 registry.cn-hangzhou.aliyuncs.com/namespace_dock/weaviate:1.19.0
 
-langgenius/dify-sandbox:0.2.1 registry.cn-hangzhou.aliyuncs.com/namespace_dock/dify-sandbox:0.2.1
+langgenius/dify-sandbox:0.2.10 registry.cn-hangzhou.aliyuncs.com/namespace_dock/dify-sandbox:0.2.10
 
 ubuntu/squid:latest registry.cn-hangzhou.aliyuncs.com/namespace_dock/squid:latest
 
 nginx:latest registry.cn-hangzhou.aliyuncs.com/namespace_dock/nginx:latest
 
 mysql:5.7 registry.cn-hangzhou.aliyuncs.com/namespace_dock/mysql:5.7
+
+langgenius/dify-plugin-daemon:0.0.2-local registry.cn-hangzhou.aliyuncs.com/namespace_dock/dify-dify-plugin-daemon:0.0.2-local
+
+langgenius/dify-web:0.15.3 registry.cn-hangzhou.aliyuncs.com/namespace_dock/dify-web:0.15.3
