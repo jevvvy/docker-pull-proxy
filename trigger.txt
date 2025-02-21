@@ -15,3 +15,5 @@ mysql:5.7 registry.cn-hangzhou.aliyuncs.com/namespace_dock/mysql:5.7
 langgenius/dify-plugin-daemon:0.0.2-local registry.cn-hangzhou.aliyuncs.com/namespace_dock/dify-plugin-daemon:0.0.2-local
 
 langgenius/dify-web:0.15.3 registry.cn-hangzhou.aliyuncs.com/namespace_dock/dify-web:0.15.3
+
+langgenius/dify-api:0.15.3 registry.cn-hangzhou.aliyuncs.com/namespace_dock/dify-api:0.15.3
