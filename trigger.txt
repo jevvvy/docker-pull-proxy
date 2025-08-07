@@ -11,6 +11,8 @@ ubuntu/squid:latest registry.cn-hangzhou.aliyuncs.com/namespace_dock/squid:lates
 nginx:latest registry.cn-hangzhou.aliyuncs.com/namespace_dock/nginx:latest
 
 mysql:5.7 registry.cn-hangzhou.aliyuncs.com/namespace_dock/mysql:5.7
+mysql:8.0-debian registry.cn-hangzhou.aliyuncs.com/namespace_dock/mysql:8.0-debian
+
 
 langgenius/dify-plugin-daemon:0.0.2-local registry.cn-hangzhou.aliyuncs.com/namespace_dock/dify-plugin-daemon:0.0.2-local
 
